@@ -14,6 +14,7 @@ const Header = () => {
               <div className="menu-bottom d-flex align-items-center gap-30  ">
               
               
+              
               <div className="col-9 ">
               <h2 className="text-white logotip">WhyNot</h2>
             </div>
