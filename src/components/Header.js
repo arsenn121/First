@@ -42,7 +42,7 @@ const Header = () => {
               <img src="images/555.jpg" className=" rounded-3 imggg" alt="main banner" width="1681 "/>
               <div id={"bla"} className="centered1 pppp">WhyNot</div>
               <div className="centered2 pppp">Створюємо ваші враження</div>
-              <button  className="centered3 btnn">Замовити</button>
+              <button  className="centered3 btnn " ><a className="text-dark" href="#top4">Замовити</a></button>
               </div>
             </div>
           </div>
