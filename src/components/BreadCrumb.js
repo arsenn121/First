@@ -13,6 +13,7 @@ const BreadCrumb = (props) => {
                 Home &nbsp;
               </Link>
               / {title}
+
             </p>
           </div>
         </div>

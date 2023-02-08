@@ -11,6 +11,7 @@ export const services = [
         image: '../images/service-03.png'
     },
     {
+        
         title: "Знижка",
         tagline: "10% знижка за реєстрацію",
         image: '../images/service-04.png'

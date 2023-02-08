@@ -5,6 +5,7 @@ import newsletter from "../images/newsletter.png";
 const Footer = () => {
   return (
     <>
+    
       <footer className="py-4">
         <div className="container-xxl">
           <div className="row align-items-center">

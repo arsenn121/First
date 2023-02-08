@@ -8,7 +8,6 @@ import CustomInput from "../components/CustomInput";
 const Home = () => {
   return (
     <>
-
     
       <Container class1="home-wrapper-2 py-5">
         <div id="top1" className="row">
