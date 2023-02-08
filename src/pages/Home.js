@@ -9,6 +9,7 @@ const Home = () => {
   return (
     <>
     
+    
       <Container class1="home-wrapper-2 py-5">
         <div id="top1" className="row">
           <div   className="col-6">
